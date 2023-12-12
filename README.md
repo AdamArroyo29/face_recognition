@@ -123,7 +123,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 cv2_imshow(unknown_image_to_draw)
 ```
 ![image](https://github.com/Jerrold026/face_recognition/assets/143669000/ccbdf7f7-2afd-4017-ae22-0d13eec7db35)
-                            
+
+           
 
 <div align="justify">
 Elon Musk (born June 28, 1971 in Pretoria, South Africa) is a South African-born American entrepreneur who co-founded PayPal and SpaceX, a producer of launch vehicles and spacecraft. He was also one of the first important investors in and the CEO of the electric automobile business Tesla. Furthermore, Musk acquired Twitter (later X) in 2022.
@@ -190,6 +191,8 @@ cv2_imshow(unknown_image_to_draw)
 <div align="justify">
 Nikola Tesla was an engineer and scientist best known for developing the alternating-current (AC) electric system, which is still the most common electrical system in use today. In addition, he invented the "Tesla coil," which is still utilized in radio technology today. Tesla, who was born in modern-day Croatia, immigrated to the United States in 1884 and briefly collaborated with Thomas Edison before the two parted ways. He sold various patent rights to George Westinghouse, including those to his AC machinery.
 </div>
+
+
 
 ✅**Lucio Tan:**
 
