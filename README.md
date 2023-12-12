@@ -37,6 +37,8 @@ This command uses pip (Python's package installer) to install the face_recogniti
 
 
 
+
+
 This code below analyzes an "unknown_em.jpeg" image using facial recognition techniques with the `face_recognition` library and OpenCV in Python.
 
 ✅ **Image Loading:** It loads the "unknown_em.jpeg" image and prepares it for analysis using `face_recognition.load_image_file` and `cv2.imread`.
@@ -50,7 +52,9 @@ This code below analyzes an "unknown_em.jpeg" image using facial recognition tec
 ✅**Visual Representation:** For each recognized face, the code draws a rectangle around the face and labels it with the recognized individual's name using OpenCV's `cv2.rectangle` and `cv2.putText` functions, providing a visual representation of the identified faces in the image.
 
  ## ✅Famous Engineers - CEO
- 
+
+ ![Brown and Pink Minimalist Romantic Photo Collage](https://github.com/Jerrold026/face_recognition/assets/143669000/de8a5e96-dbec-4b9f-af46-387fac0530fa)
+
 ![image](https://github.com/Jerrold026/face_recognition/assets/143669000/a7ec9aa9-35da-424f-8efe-d6073f692dbc)
 
                             
@@ -89,6 +93,7 @@ Ramon See Ang (RSA) is a Filipino businessman who was born on January 14, 1954. 
 
 
 ### ✅**Ten Image for the Unknown Faces:**
+![Brown and Pink Minimalist Romantic Photo Collage (1)](https://github.com/Jerrold026/face_recognition/assets/143669000/1444f61b-0720-4696-bc84-60e135bf4909)
 
 ![image](https://github.com/Jerrold026/face_recognition/assets/143669000/853938dc-3d95-40b4-a14e-157ca816392d)
 ![image](https://github.com/Jerrold026/face_recognition/assets/143669000/87c7744e-ee20-46da-bf17-fb7a9451d436)
