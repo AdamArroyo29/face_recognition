@@ -505,6 +505,7 @@ cv2_imshow(unknown_image_to_draw)
 
 𝐒𝐎𝐔𝐑𝐂𝐄𝐒:
 
+
 Green, A. (2010, June 16). Lucio Tan | Business, Biography, & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Lucio-Tan
 
 Gregersen, E. (2023, December 10). Elon Musk | Biography, SpaceX, Tesla, Twitter, X, & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Elon-Musk
