@@ -258,7 +258,7 @@ Ramon See Ang (RSA) is a Filipino businessman who was born on January 14, 1954. 
 </div>
 
 
-### ✅**Ten Image for the Unknown Faces:**
+### ✅**Ten Unknown Engineers:**
 ![Brown and Pink Minimalist Romantic Photo Collage (1)](https://github.com/Jerrold026/face_recognition/assets/143669000/1444f61b-0720-4696-bc84-60e135bf4909)
 
 ```
