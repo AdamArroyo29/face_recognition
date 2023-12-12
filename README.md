@@ -19,11 +19,13 @@ This command clones (downloads) a Git repository from the URL provided (https://
 ✅!pip install face_recognition:
 This command uses pip (Python's package installer) to install the face_recognition library. This library provides functionalities for face recognition in Python.
 </div>
+
 ```
 !git clone https://github.com/Jerrold026/face_recognition.git
 !pip install face_recognition
 %cd face_recognition
 ```
+
 
 ✅The code below is creating encoding profiles for facial recognition using the face_recognition library in Python. It loads images of five different individuals, encodes their facial features, and creates a database of known faces for identification purposes.
 
